@@ -1,0 +1,31 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AE05-9465
+
+ Directory of C:\Users\Abhishek\De6    <DIR>          .
+   <DIR>          ..
+17  23:14    <DIR>          abhi
+25-10-2017  10:37            84,731 biometrics.jpg
+19-07-2017  20:50             2,697 BitTorrent.lnk
+24-09-2017  16:08    <DIR>          c abhi
+21-12-2017  20:27    <DIR>          c pro
+09-11-2017  15:28             2,071 Cleanup.lnk
+24-10-2017  13:13    <DIR>          dbz game
+06-10-2017  07:19        23,642,550 dbz game.rar
+28-10-2017  10:39         1,239,118 domicile.pdf
+23-12-2017  22:06            11,343 download (1).jpg
+23-12-2017  22:06             7,232 download.jpg
+19-07-2017  23:16             1,226 Dropbox.lnk
+12-12-2017  20:35         1,230,966 DS - important questions2017-11-11 15_46_50.pdf
+12-12-2017  20:35        19,440,519 DS_unit_2_notes2017-12-12 03_27_41.pdf
+23-12-2017  23:36             1,168 Facebook Gameroom.lnk
+24-11-2017  12:10           368,899 Facebook-Wallpapers.jpg
+25-10-2017  10:40             1,701 Google Drive.lnk
+24-12-2017  11:32                 0 pattern.txt
+23-12-2017  21:47               973 PotPlayer 64 bit.lnk
+06-09-2017  15:10         2,540,779 PYTHON PROJECT.pptx
+29-10-2017  13:27           522,932 Scan0009.pdf
+16-11-2017  18:54           590,409 son_goku_ultra_instinct_form_by_rmehedi-dbpwu2b.png
+26-07-2017  10:17               793 Start Tor Browser.lnk
+26-07-2017  10:17    <DIR>          Tor Browser
+              19 File(s)     49,690,107 bytes
+               7 Dir(s)  65,197,240,320 bytes free
